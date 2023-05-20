@@ -1,0 +1,8 @@
+.main {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px dashed black;
+    width: 600px;
+    margin: 100px auto;
+    padding: 30px 50px;
+    border-radius: 10px;
+}

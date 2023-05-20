@@ -1,0 +1,13 @@
+.main {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px dashed black;
+    width: 600px;
+    text-align: center;
+    margin: 100px auto;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+[routerLink] {
+    color: black;
+}
